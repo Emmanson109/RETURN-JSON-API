@@ -11,7 +11,7 @@ app.get('/', (req,res) => {
     res.json({
         email: 'Emmanson109@gmail.com',
         currentDateTime: new Date().toISOString(),
-        github_url: 'https://github.com/emmanson109'
+        github_url: 'https://github.com/Emmanson109/RETURN-JSON-API.git'
 
     })
 })
